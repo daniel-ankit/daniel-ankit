@@ -1,7 +1,6 @@
 ## Ankit Kumar
 
-
-Here are some ideas to get you started:
+![Goku](/assets/img/goku.jpg "Goku")
 
 - 🔭 I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning Back-end Development
@@ -9,8 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with C++
 - 📫 How to reach me: [Gmail](ankit.kumar.061000@gmail.com)
 - 😄 Pronouns: Weak
-- ⚡ Fun fact: 
-
-🌟Skills: C / C++ / Python
-
-![Goku](/assets/img/goku.jpg "Goku")
