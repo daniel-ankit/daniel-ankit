@@ -10,5 +10,5 @@
 - 💡 Working on my Data Structure and Algorithms.
 - 🧑🏽‍💻 Practising on CodeChef and Code Forces to better my Problem Solving. 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikharajchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shikharajchauhan" /> </p>
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-ankit)](https://github.com/anuraghazra/github-readme-stats)
